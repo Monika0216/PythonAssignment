@@ -1,0 +1,7 @@
+I am learining git.
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Monika0216/PythonAssignment.git
+git push -u origin master
